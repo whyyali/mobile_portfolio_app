@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Portfolio App</string>
+    <string name="app_name">Portfolio</string>
+    <string name="about_me">I am the student of BSCS in University of Sahiwal. I am a web and app  developer. I ❤ coffee and Ice-Cream.\n\n
+        I specialize in creating responsive and interactive websites and mobile applications that cater to the unique needs of my clients and their target audiences.
+        I thrive in a collaborative environment and am proficient in range of programing languages, including HTML, CSS, Javascript, and more. I am dedicated to staying up-to-date with the latest web and app development trends and technologies to deliver cutting edge solutions to my clients.
+        Whether you need a brand-new website, mobile app or enhancements to an existing project, I am here to turn your vision into a reality.
+    </string>
 </resources>
